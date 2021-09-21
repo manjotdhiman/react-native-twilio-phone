@@ -1,5 +1,5 @@
 {
-  "name": "react-native-twilio-phone",
+  "name": "@manjot/react-native-twilio-phone",
   "version": "1.8.0",
   "description": "Twilio Voice React Native module.",
   "main": "lib/commonjs/index.js",
@@ -33,8 +33,8 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/MrHertal/react-native-twilio-phone",
-  "author": "Grégoire Hertault (https://github.com/MrHertal)",
+  "repository": "https://github.com/manjotdhiman/react-native-twilio-phone",
+  "author": "Manjot Singh (https://github.com/manjotdhiman)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MrHertal/react-native-twilio-phone/issues"

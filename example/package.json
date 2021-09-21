@@ -1,5 +1,5 @@
 {
-  "name": "react-native-twilio-phone-example",
+  "name": "@manjot/react-native-twilio-phone-example",
   "description": "Example app for react-native-twilio-phone",
   "version": "0.0.1",
   "private": true,
